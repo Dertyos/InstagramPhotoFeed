@@ -1,0 +1,58 @@
+body {
+    align-items: center;
+    background-color: rgb(211, 211, 211);
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+h1 {
+    width: 100%;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    height: 110px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.publicacion {
+    
+    margin-top: 40px;
+    width: 45%;
+    background-color: white;
+    margin-left: 28.5%;
+    border-radius: 2%;
+    margin-bottom: 20px;
+    
+}
+.imagetitle {
+    background-color: white;
+    font-weight: bolder;
+    border-top-left-radius: 2%;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+img {
+    margin: 0%;
+    max-width: 100%;
+    padding: 0;
+}
+
+.descripcion {
+    height: fit-content;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
